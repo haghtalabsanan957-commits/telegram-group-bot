@@ -5,8 +5,8 @@ from telegram.ext import (
 )
 
 # ====== تنظیمات ======
-TOKEN = "توکن_ربات_تو"  # توکن BotFather
-ADMIN_ID = 123456789     # آی‌دی خودت
+TOKEN = "8171796472:AAE_UOuQufiHPpT-iIEfvxAjbN1MdKhF1pw"
+ADMIN_ID = 8261807538     # آی‌دی خودت
 MAX_WORDS = 150          # حداکثر طول پیام
 recent_messages = {}     # برای پیام‌های تکراری
 forbidden_words = []     # لیست کلمات ممنوع
